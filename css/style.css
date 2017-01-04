@@ -1,0 +1,12 @@
+body{
+  background-image: url(../images/fond.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.images{
+  margin-top: 15px;
+  margin-bottom: 15px;
+  border: 1px solid black;
+}
